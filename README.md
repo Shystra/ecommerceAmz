@@ -7,7 +7,7 @@ Welcome to my project made in TypeScript where we will build a fully-functional 
 - **Demo Website:**
   - Render: ["Site"]("Site")
 
-## What You Will Learn
+## What You See
 
 - Creating a React application using Vite in TypeScript.
 - Defining and exporting types such as product, orders, and user in the frontend.
@@ -27,8 +27,8 @@ Welcome to my project made in TypeScript where we will build a fully-functional 
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:basir/ts-mern-amazona.git
-   cd ts-mern-amazona
+   git clone git@github.com:Shystra/ecommerceAmz.git
+   cd ecommerceAmz
    ```
 
 2. Create `.env` File:
