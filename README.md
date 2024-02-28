@@ -1,4 +1,4 @@
-# TypeScript MERN AMAZONA
+# TypeScript Amz
 
 Welcome to my project made in TypeScript where we will build a fully-functional e-commerce website similar to Amazon. Open your code editor and follow along for the next few hours to create an e-commerce website using the MERN stack (MongoDB, ExpressJS, React, and Node.JS).
 
